@@ -18,12 +18,12 @@ namespace DataAsInterfaceDomain
 		public override string ToString()
 		{
 			return $@"Property1: {Property1}
-Property2: {Property1}
-Property3: {Property1}
-Property4: {Property1}
-Property5: {Property1}
-Property6: {Property1}
-Property7: {Property1}
+Property2: {Property2}
+Property3: {Property3}
+Property4: {Property4}
+Property5: {Property5}
+Property6: {Property6}
+Property7: {Property7}
 ExtraProperty1: {ExtraProperty1}
 ExtraProperty2: {ExtraProperty2}
 ExtraProperty3: {ExtraProperty3}";
